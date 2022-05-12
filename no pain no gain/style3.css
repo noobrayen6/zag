@@ -1,0 +1,46 @@
+body{
+    margin:50px
+    
+    
+   
+}
+
+.zaggog{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    width: 50%;
+    
+   
+
+
+}
+
+
+.zag3{
+
+
+    border-radius: 40px;
+    border: 0;
+    font-size: 2rem;
+    font-weight: 50;
+    margin: 1rem 0;
+    margin-left: 150px;
+    padding: 2rem 3rem;
+    text-transform: uppercase;
+    white-space: nowrap;
+    cursor:pointer;
+    
+}
+
+.zag3{
+    background: white;
+    color: black;
+    border: 2px solid black;
+}
+.zag3:hover{
+    background: black;
+    color: #fff;
+
+}
